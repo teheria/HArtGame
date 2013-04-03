@@ -4,14 +4,19 @@ HArtGame
 Entry for the 2013 Global Game Jam
 
 Jason Judd Roth
+
 Forest Hibbard
+
 Andrew Facchiano
+
 Conrad Nelson
 
 How To Play
 ===========
 Standard FPS controls
+
 WASD for movement
+
 Mouse to look
 
 Notes
